@@ -17,6 +17,8 @@ FACADE_DATA_DIR = os.path.join(ROOT_DIR, 'data', 'ruemonge428')
 SHAPENET3D_DATA_DIR = os.path.join(ROOT_DIR, 'data', 'shapenet_ericyi_ply')
 SHAPENET2D3D_DATA_DIR = os.path.join(ROOT_DIR, 'data', 'shapenet_2d3d_h5')
 
+AIRSIM_DATA_DIR = os.path.join(ROOT_DIR, '..', 'data', 'splatnet')
+
 # facade global variables
 
 FACADE_CATEGORIES = ('wall', 'sky', 'balcony', 'window', 'door', 'shop', 'roof')
